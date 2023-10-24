@@ -8,7 +8,7 @@ on:
   #push:
     #branches: [ "main" ]
   pull_request:
-    paths: https://github.com/HendrikBorgelt/Test_repositroy_for_Mathias_Gacka.git
+    paths: ["https://github.com/HendrikBorgelt/Test_repositroy_for_Mathias_Gacka.git"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
