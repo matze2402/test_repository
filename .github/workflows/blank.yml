@@ -10,6 +10,6 @@ jobs:
       contents: read
       pull-requests: write
     steps:
-      -uses: actions/labeler@v4
-       with:
-         repo-token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/labeler@v4
+        with:
+         repo-token: ${{ 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 }}
