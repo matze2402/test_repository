@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: actions/labeler@v4
         with:
-          repo-token: "${{secrets.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}}"
+          repo-token: "${{secrets.personal_accesstoken}}"
