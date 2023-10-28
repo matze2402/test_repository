@@ -22,6 +22,6 @@ jobs:
         with:
           owner: Matze2402
           repo: child_repo
-          github_token:
+          github_token: 
         
   
