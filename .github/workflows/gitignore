@@ -1,3 +1,0 @@
-touch .gitignore
-
-git rm --cached blank.yml
